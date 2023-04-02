@@ -1,5 +1,4 @@
-# Web-Basic
-html css sass mixin
+# Web-Basic (html / css / sass / mixin)
 
 1) intro - 크로스 브라우징과 웹표준, 개발 준비 환경 (웹 프레임 워크 소개)<br>
 2) 프론트엔드가 사랑하는 웹 프레임워크 소개 <br>
